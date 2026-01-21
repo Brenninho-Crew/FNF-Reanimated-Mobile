@@ -1,0 +1,30 @@
+{
+  "id": "com.fnfreanimates.public",
+  "title": "FNF Reanimated",
+  "description": "",
+  "github": {
+    "user": "ZariuX",
+    "repo": "FNF-Reanimated-Public"
+  },
+"executable": {
+  "windows": "Reanimated.exe",
+  "mac": "sus"
+},
+"theme": {
+  "version": 1,
+  "coverUrl": "https://raw.githubusercontent.com/ZariuX/FNF-Reanimated-Public/refs/heads/main/Cover_CL.jpg",
+  "backgroundLibrary": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/ZariuX/FNF-Reanimated-Public/refs/heads/main/BG_Launcher.png",
+    "color": ""
+  },
+  "backgroundDetails": {
+    "type": "color",
+    "url": "",
+    "color": "E1BFF5"
+  },
+  "titleColor": "FFFFFF",
+  "iconTheme": "dark",
+  "musicUrl": ""
+}
+}
