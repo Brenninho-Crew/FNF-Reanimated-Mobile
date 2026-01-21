@@ -11,7 +11,7 @@
   "mac": "sus"
 },
 "theme": {
-  "version": 1,
+  "version": 2,
   "coverUrl": "https://raw.githubusercontent.com/ZariuX/FNF-Reanimated-Public/refs/heads/main/Cover_CL.jpg",
   "backgroundLibrary": {
     "type": "image",
@@ -29,3 +29,4 @@
 }
 
 }
+
