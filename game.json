@@ -11,7 +11,7 @@
   "mac": "sus"
 },
 "theme": {
-  "version": 4,
+  "version": 5,
   "coverUrl": "https://raw.githubusercontent.com/ZariuX/FNF-Reanimated-Public/refs/heads/main/Cover_CL.png",
   "backgroundLibrary": {
     "type": "image",
@@ -19,9 +19,9 @@
     "color": ""
   },
   "backgroundDetails": {
-    "type": "color",
-    "url": "",
-    "color": "E1BFF5"
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/ZariuX/FNF-Reanimated-Public/refs/heads/main/BG_Launcher.png",
+    "color": ""
   },
   "titleColor": "FFFFFF",
   "iconTheme": "dark",
@@ -29,6 +29,7 @@
 }
 
 }
+
 
 
 
